@@ -10,5 +10,8 @@ public class TwoD {
            }
             System.out.println("Sum or row" + (i+1) + "; " + sum);
 
-   
+       }
+
+    }
+    
 
