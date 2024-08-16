@@ -5,5 +5,7 @@ public class TwoD {
         for (int i = 0; i < 3; i++) {
             int sum = 0;
             for(int j = 0 ; j<3;j++){
- 
+               System.out.print(matrix[i][j]+ " ");
+                sum += matrix [i][j];
+  
 
