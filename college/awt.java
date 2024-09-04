@@ -7,7 +7,6 @@ public class awt {
         fm.setSize(300, 300);
         fm.setVisible(true);
     }
-
     public static void main(String[] args) {
         new awt();
     }
