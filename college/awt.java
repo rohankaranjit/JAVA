@@ -1,5 +1,4 @@
 import java.awt.*;
-
 public class awt {
     awt() {
         Frame fm = new Frame("Title");
