@@ -1,6 +1,5 @@
 import java.awt.*;
 import java.awt.event.*;
-
 public class App extends Frame {
 
     App() {
